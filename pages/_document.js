@@ -4,8 +4,6 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Bubbles</title>
-        <link rel="icon" href="../public/logo.png" />
       </Head>
       <body>
         <Main />
