@@ -168,7 +168,7 @@ const HomePage = () => {
             <h5>Free Next Day Delivery</h5>
             <p>
               We provide a FREE next day delivery. You also won't get caught
-              short on inventory. We’re open convenient hours 7 days a week to
+              short on inventory. We're open convenient hours 7 days a week to
               serve you.
             </p>
           </div>
@@ -176,7 +176,7 @@ const HomePage = () => {
             <h5>Free Next Day Delivery</h5>
             <p>
               We provide a FREE next day delivery. You also won't get caught
-              short on inventory. We’re open convenient hours 7 days a week to
+              short on inventory. We're open convenient hours 7 days a week to
               serve you.
             </p>
           </div>
@@ -184,7 +184,7 @@ const HomePage = () => {
             <h5>Free Next Day Delivery</h5>
             <p>
               We provide a FREE next day delivery. You also won't get caught
-              short on inventory. We’re open convenient hours 7 days a week to
+              short on inventory. We're open convenient hours 7 days a week to
               serve you.
             </p>
           </div>
@@ -192,7 +192,7 @@ const HomePage = () => {
             <h5>Free Next Day Delivery</h5>
             <p>
               We provide a FREE next day delivery. You also won't get caught
-              short on inventory. We’re open convenient hours 7 days a week to
+              short on inventory. We're open convenient hours 7 days a week to
               serve you.
             </p>
           </div>
